@@ -1,0 +1,6 @@
+*.py
+*.php
+*.java
+
+[aeiou]*
+
